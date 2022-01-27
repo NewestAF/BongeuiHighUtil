@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="request_what">
+        <item>급식</item>
+        <item>자가진단</item>
+        <item>테스트</item>
+    </string-array>
+
+</resources>
